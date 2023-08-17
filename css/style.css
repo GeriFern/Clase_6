@@ -1,0 +1,96 @@
+body{
+    background-image: url('/img/fondo3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: 'Hind', sans-serif;
+}
+
+header{
+    background-image: url('/img/fondo5.jpg');
+    height: 100px;  
+    background-size: cover;
+}
+
+.titulo{
+    background-color: #125771;
+    text-align: center;
+    margin: 0;
+}
+
+.banner{
+    width: 10%;
+}
+
+.foto-personal{
+    width: 10%;
+    margin-top: 20px;
+    border-radius: 50px 50px 50px 50px;
+    
+}
+
+.comienzo{
+    text-align: center;
+}
+.comienzo a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.datos h2{
+    background-color: #125771;
+    text-align: center;
+}
+
+.datos li{
+    font-size: 23px;
+
+}
+.formacion h2{
+    background-color: #125771;
+    text-align: center;
+}
+
+.formacion li{
+    font-size: 23px;
+}
+
+.experiencia h2{
+    background-color: #125771;
+    text-align: center;
+}
+
+.experiencia p{
+    font-size: 23px;
+    padding-left: 20px;
+}
+
+footer{
+    background-color: #125771;
+    text-align: center;
+    padding: 1px;
+    font-size: 20px;
+}
+footer i{
+    color: black;
+}
+
+/*       */
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.item1 h2{
+    background-color: #125771;
+    text-align: center;
+}
+
+.item2 h2{
+    background-color: #125771;
+    text-align: center;
+}
